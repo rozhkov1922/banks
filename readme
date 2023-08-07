@@ -1,0 +1,9 @@
+Analysis of the outflow of bank customers.
+I used python skills (pandas, matplotlib, plotly, seaborn, scipy, numpy) and also built a dashboard.
+
+I analyzed the churn of a regional bank and identified customer segments that tend to leave the bank.
+I conducted an exploratory data analysis, identified all significant signs of churn (ranges of characteristic values that are associated with increased churn, compare portraits of typical customers who
+inclined and not inclined to leave the bank, etc.)
+I formulated and tested statistical hypotheses. I tested the income difference hypothesis between those customers who left and those who stayed.
+I formulated and tested a statistical hypothesis about the data presented to help clarify the study.
+I combined the signs of perfection, formed segments, selected the best ones and gave recommendations on them
